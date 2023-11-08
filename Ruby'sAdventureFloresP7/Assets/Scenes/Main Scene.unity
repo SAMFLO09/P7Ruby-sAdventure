@@ -2163,13 +2163,13 @@ Tilemap:
   - first: {x: 0, y: 3, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 13
-      m_TileSpriteIndex: 13
+      m_TileIndex: 2
+      m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
-      m_AllTileFlags: 2
+      m_AllTileFlags: 1
   - first: {x: 1, y: 3, z: 0}
     second:
       serializedVersion: 2
@@ -2436,7 +2436,7 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 63fe511bd8977194b94291a8f384b31d, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 82337925d6202654f961ead18953da2e, type: 2}
-  - m_RefCount: 37
+  - m_RefCount: 38
     m_Data: {fileID: 11400000, guid: 870a4ce761a4567428aa6c16f312a93f, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: a0f671b709efc3440a364ece65f4c0dd, type: 2}
@@ -2458,7 +2458,7 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: e27b18b14dc4a314aa804e82254691ab, type: 2}
   - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 44d5151fca368c04d8d79c6fe862659d, type: 2}
-  - m_RefCount: 37
+  - m_RefCount: 36
     m_Data: {fileID: 11400000, guid: 9ac5427eb52f72449a169a925e9908be, type: 2}
   - m_RefCount: 42
     m_Data: {fileID: 11400000, guid: 04816ae340f43d946ab82d0a96b817a9, type: 2}
@@ -2473,7 +2473,7 @@ Tilemap:
     m_Data: {fileID: -1511324082, guid: 2ff4c9799e22f1b4c95766cc11f47530, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 836140668, guid: 2ff4c9799e22f1b4c95766cc11f47530, type: 3}
-  - m_RefCount: 37
+  - m_RefCount: 38
     m_Data: {fileID: -160084443, guid: df0b6f9e93b65bc4792e6cf7849c5e37, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 1022068785, guid: 2ff4c9799e22f1b4c95766cc11f47530, type: 3}
@@ -2495,7 +2495,7 @@ Tilemap:
     m_Data: {fileID: 1129231, guid: 957383e82ad8601499ca4cac1dd1214a, type: 3}
   - m_RefCount: 2
     m_Data: {fileID: -2138189500, guid: 957383e82ad8601499ca4cac1dd1214a, type: 3}
-  - m_RefCount: 37
+  - m_RefCount: 36
     m_Data: {fileID: 21300000, guid: bca6347cfdad1064793fcc2e0b496c59, type: 3}
   - m_RefCount: 42
     m_Data: {fileID: -866497147, guid: df0b6f9e93b65bc4792e6cf7849c5e37, type: 3}
@@ -3325,6 +3325,8 @@ SceneRoots:
   - {fileID: 1640029708}
   - {fileID: 151940020960732880}
   - {fileID: 192105651}
+  - {fileID: 1345152241}
+  - {fileID: 1590491256}
   - {fileID: 1671298372}
   - {fileID: 1672299003}
   - {fileID: 482689851}
@@ -3332,5 +3334,3 @@ SceneRoots:
   - {fileID: 859205840}
   - {fileID: 1948350176}
   - {fileID: 1737951687}
-  - {fileID: 1345152241}
-  - {fileID: 1590491256}
